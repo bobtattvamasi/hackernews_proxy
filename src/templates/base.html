@@ -1,0 +1,16 @@
+<!-- templates/base.html -->
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hacker News Proxy</title>
+    <link rel="stylesheet" href="{% static 'css/news.css' %}">
+</head>
+<body>
+    <div class="container">
+        {% block content %}{% endblock %}
+    </div>
+    <script src="{% static 'js/news.js' %}"></script>
+</body>
+</html>

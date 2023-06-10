@@ -1,0 +1,100 @@
+/* news.css */
+
+/* Styles for the news page */
+h1 {
+  color: #777;
+  font-size: 24px;
+}
+
+* {
+  font-family: Arial, sans-serif;
+}
+
+* {
+  color: #333333;
+}
+
+.article {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.author {
+  font-style: italic;
+  color: #888;
+}
+
+
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+}
+
+center {
+    text-align: -webkit-center;
+}
+
+
+element.style {
+}
+td {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 10pt;
+    color: #828282;
+}
+user agent stylesheet
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+user agent stylesheet
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+}
+user agent stylesheet
+center {
+    text-align: -webkit-center;
+}
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 10pt;
+    color: #828282;
+}
+
+#logo
+{
+  background: url('/static/y18.svg')
+}
+
+td {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 10pt;
+    color: #828282;
+}
+
+
+/* Additional styles for other elements on the news page */

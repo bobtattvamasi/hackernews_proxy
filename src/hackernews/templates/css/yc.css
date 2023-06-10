@@ -1,0 +1,19 @@
+.line-content {
+    padding: 0px 5px !important;
+}
+user agent stylesheet
+td {
+    display: table-cell;
+    vertical-align: baseline;
+    padding: 0px !important;
+}
+user agent stylesheet
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: pre;
+    font-size: initial;
+    font-family: monospace;
+    tab-size: 4;
+    border-spacing: 0px;
+}
