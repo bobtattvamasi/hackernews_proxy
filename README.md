@@ -2,5 +2,5 @@
 A simple proxy of https://news.ycombinator.com/
 
 # How to use:
-cd src
+cd src  
 python3 manage.py runserver
